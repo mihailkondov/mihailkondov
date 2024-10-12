@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondov&&layout=compact&locale=bg)](https://github.com/anuraghazra/github-readme-stats)
+This panel should come up in bulgarian at some point:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondov&&layout=compact&locale=bg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondov&&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondov&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailkondov&&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
